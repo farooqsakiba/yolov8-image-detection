@@ -3,4 +3,4 @@ ultralytics
 Pillow
 torch
 numpy
-opencv2-python
+opencv-python
