@@ -1,0 +1,1 @@
+Place your trained YOLOv8 model file named 'best.pt' in this folder before deploying.
